@@ -1,7 +1,7 @@
 * {
     padding:1rem;
     margin:0;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
     box-sizing: border-box;
 
     border-radius:6px;
@@ -15,7 +15,7 @@ body {
  height: 100vh;
 
  font-family: sans-serif;
- color:rgb(141, 130, 238);
+ color:rgb(26, 19, 85);
 
 }
 
@@ -61,7 +61,7 @@ p.introduksjon {
 }
 
 div.interesser-wrap {
-    background-color: #eeeded;
+    background-color: rgb(73, 101, 150);
 }
 
 ul > li {
