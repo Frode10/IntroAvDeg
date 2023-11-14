@@ -21,14 +21,15 @@ body {
 
 /* Wrapper  */
 #section-01 {
-    background: linear-gradient(rgb(141, 130, 238), lightblue);
+    background: linear-gradient(rgb(78, 67, 180), rgb(31, 96, 118));
 
     max-width:600px;
+    box-shadow: 6px 8px 12px rgba(0, 0, 0, 0.33);
 
 }
 
 #section-01:hover {
-    background: linear-gradient(rgb(137, 108, 223), rgb(159, 121, 196));
+    background: linear-gradient(rgb(67, 159, 180), rgb(31, 63, 118));
 
 
     max-width:600px;
@@ -61,7 +62,7 @@ p.introduksjon {
 }
 
 div.interesser-wrap {
-    background-color: rgb(73, 101, 150);
+    background-color: rgb(168, 168, 168);
 }
 
 ul > li {
